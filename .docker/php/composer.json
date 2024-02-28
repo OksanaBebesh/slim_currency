@@ -3,6 +3,7 @@
     "slim/slim": "4.*",
     "laminas/laminas-diactoros": "^1.0",
     "guzzlehttp/psr7": "^1.0",
-    "slim/psr7": "^1.0"
+    "slim/psr7": "^1.0",
+    "monolog/monolog": "^3.0"
   }
 }
